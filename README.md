@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NurikDz/NurikDz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Noureddine
+### macOS 
 
-Here are some ideas to get you started:
+Building native macOS apps in Swift and SwiftUI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NurikDz213)
+[![GitHub followers](https://img.shields.io/github/followers/NurikDz?style=for-the-badge&color=black)](https://github.com/NurikDz)
+
+</div>
+
+---
+
+### Apps
+
+| App | Description |
+|-----|-------------|
+| [EnvSwitch](https://github.com/NurikDz/EnvSwitch) | Menu bar context switcher for macOS |
+| [StreamDrop](https://github.com/NurikDz/streamdrop) | Download from Telegram, YouTube, TikTok and more |
+| [PurgeTaps](https://github.com/NurikDz/PurgeTaps) | macOS utility |
+
+---
+
+### Stack
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D84FF?style=for-the-badge&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+---
+
+<div align="center">
+
+### Stats
+
+![NurikDz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NurikDz&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NurikDz&layout=compact&theme=dark&hide_border=true)
+
+</div>
