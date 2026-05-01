@@ -19,6 +19,7 @@ Building native macOS apps in Swift and SwiftUI.
 | [EnvSwitch](https://github.com/NurikDz/EnvSwitch) | Menu bar context switcher for macOS |
 | [StreamDrop](https://github.com/NurikDz/streamdrop) | Download from Telegram, YouTube, TikTok and more |
 | [PurgeTaps](https://github.com/NurikDz/PurgeTaps) | macOS utility |
+| [PasteDesk]([https://github.com/NurikDz/PasteDesk]| A clipboard manager that lives on your macOS desktop |
 
 ---
 
