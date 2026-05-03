@@ -16,9 +16,9 @@ Building native macOS apps in Swift and SwiftUI.
 
 | App | Description |
 |-----|-------------|
-| [EnvSwitch](https://github.com/NurikDz/EnvSwitch) | Menu bar context switcher for macOS |
-| [StreamDrop](https://github.com/NurikDz/streamdrop) | Download from Telegram, YouTube, TikTok and more |
-| [PurgeTaps](https://github.com/NurikDz/PurgeTaps) | macOS utility |
+| [Tvoiz](https://github.com/NurikDz/EnvSwitch](https://github.com/NurikDz/Tvoiz) | Tvoiz is a professional, 100% on-device AI audiobook and speech production studio for macOS |
+| [IptvS](https://github.com/NurikDz/IptvS) | The Modern, Native IPTV Experience for macOS |
+| [Ask](https://github.com/NurikDz/ASK) |  floating AI assistant for macOS,No sub,No api,No setup |
 | [PasteDesk](https://github.com/NurikDz/PasteDesk)| A clipboard manager that lives on your macOS desktop |
 
 ---
