@@ -20,8 +20,7 @@ Building native macOS apps in Swift and SwiftUI.
 | [IptvS](https://github.com/NurikDz/IptvS) | The Modern, Native IPTV Experience for macOS |
 | [Ask](https://github.com/NurikDz/ASK) | floating AI assistant for macOS, no subscription, no API, no setup |
 | [PasteDesk](https://github.com/NurikDz/PasteDesk)| A clipboard manager that lives on your macOS desktop |
-| [NexoraRender](https://github.com/NurikDz/NexoraRender)| High-performance production web rendering protocol with absolute data integrity and asset optimization |
-| [NexoraCrawler](https://github.com/NurikDz/NexoraCrawler)| Advanced recursive Python crawler featuring Playwright, Trafilatura, and BeautifulSoup extraction |
+| [TgDrive](https://github.com/NurikDz/TGDrive)| TGDrive is a native macOS app that uses a private Telegram channel as file storage. It is built with SwiftUI, TDLib, and a local SQLite index |
 
 ---
 
