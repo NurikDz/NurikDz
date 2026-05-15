@@ -19,6 +19,7 @@ Building native macOS applications that feel at home on your desktop. Privacy-fo
 |-----|-------------|---------|
 | [ASK](https://github.com/NurikDz/ASK) | Floating AI assistant — press a hotkey, ask anything. No API key. No subscription. | `brew install --cask NurikDz/apps/ask` |
 | [FreeStream](https://github.com/NurikDz/FreeStream) | High-performance streaming aggregator & media player for macOS | `brew install --cask NurikDz/apps/freestream` |
+| [H+](https://github.com/NurikDz/H-Plus) | Streaming app with liquid glass interface for movies and series | `brew install --cask NurikDz/apps/h-plus` |
 | [TGDrive](https://github.com/NurikDz/TGDrive) | Use your private Telegram channel as cloud file storage | `brew install --cask NurikDz/apps/tgdrive` |
 | [PasteDesk](https://github.com/NurikDz/PasteDesk) | Clipboard manager on your desktop wallpaper. Always visible. | `brew install --cask NurikDz/apps/pastedesk` |
 | [SentryKit](https://github.com/NurikDz/SentryKit) | View & manage macOS privacy permissions (TCC) | `brew install --cask NurikDz/apps/sentrykit` |
@@ -34,7 +35,7 @@ Building native macOS applications that feel at home on your desktop. Privacy-fo
 
 ```bash
 brew tap NurikDz/apps
-brew install --cask ask freestream tgdrive pastedesk sentrykit tvoiz iptvs envswitch streamdrop netshield
+brew install --cask ask freestream h-plus tgdrive pastedesk sentrykit tvoiz iptvs envswitch streamdrop netshield
 ```
 
 All apps are **ad-hoc signed** with automatic quarantine stripping via Homebrew. No Apple Developer ID required.
